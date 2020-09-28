@@ -1,5 +1,4 @@
 import React from 'react';
-import './App.css';
 import { Nav, Home, Products, Contact, Cart } from "./layout";
 import {
   BrowserRouter as Router,
